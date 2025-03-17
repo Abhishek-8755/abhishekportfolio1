@@ -1,0 +1,331 @@
+{
+  "hero": {
+    "imgUrl": "/images/abhi7.png",
+    "name": "Abhishek Sharma",
+    "heading": "Hay! I’m Abhishek",
+    "typingText": ["I'm a Full Stack Developer", 1500, "I'm a Back End Developer", 1500, "I'm a Freelancer", 1500, "I'm a Front End Developer ", 1500],
+    "description": "I developed the EMS system at ADD-God using the MERN stack, solving real-world problems. I also built add-god.com (React) and addgod.in (WordPress), gaining expertise in VPS, routing, and multi-port management. As Chief Investigation Officer also, I oversee management, production, and sales, while leveraging my digital marketing expertise in SEO, SEMrush, GMB, and social media optimization. 🚀",
+    "btnText": "Get Resume",
+"btnUrl": "/images/sac.pdf"
+  },
+ "socialBtns": [
+  {
+    "icon": "fa-brands:instagram",
+    "iconBgClass": "instagram",
+    "href": "https://www.instagram.com/letscodeabhi?igsh=dTh3YmQ5azJkdjRs"
+  },
+  {
+    "icon": "fa-brands:linkedin-in",
+    "iconBgClass": "linkedin",
+    "href": "https://www.linkedin.com/in/abhishek-sharma-863442171/?trk=opento_sprofile_details"
+  },
+  {
+    "icon": "fa-brands:whatsapp",
+    "iconBgClass": "whatsapp",
+    "href": "https://wa.me/918755465950"
+  },
+  {
+    "icon": "fa-brands:github",
+    "iconBgClass": "github",
+    "href": "https://github.com/Abhishek-8755"
+  }
+]
+
+  ,
+  "brands": [
+    {
+      "src": "/images/harekrishnaasyina.webp",
+      "alt": "Hare Krishana Ashyiana"
+    },
+    {
+      "src": "/images/icon.png",
+      "alt": "Addgod"
+    },
+    {
+      "src": "/images/techcov.png",
+      "alt": "Techco-V"
+    },
+    {
+      "src": "/images/tenextservice.png",
+      "alt": "tenextservice"
+    },
+    {
+      "src": "/images/pns.png",
+      "alt": "poonamsareehouse"
+    },
+    {
+      "src": "/images/logo.png",
+      "alt": "Abhishek Sharma"
+    }
+  
+  ],
+  "about": {
+    "imgSrc": "/images/abhi8.png",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>Full Stack</span> PROJECTS",
+    "description": "🚀 Hi, I'm Abhishek Sharma, a full-stack developer (MCA) specializing in React, Node.js, Express.js, MongoDB, and WordPress. 💻 I built the EMS system at ADD-God and developed add-god.com (React) & addgod.in (WordPress), gaining expertise in VPS, website routing, and multi-port management. 🌐 As Chief Investigation Officer, I oversee management, production, and sales while leveraging my digital marketing skills in SEO, SEMrush, GMB, and social media optimization 📈. Passionate about innovation and solving real-world problems—let’s build something amazing! ✨🔥",    "funfacts": [
+      {
+        "title": "Client Review",
+        "number": 50
+      },
+      {
+        "title": "Years Experience",
+        "number": 2
+      },
+      {
+        "title": "projects",
+        "number": 15
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  
+    "projects": {
+      "sectionHeading": {
+        "miniTitle": "My Work",
+        "title": "Recent Projects"
+      },
+      "allProjects": [
+        {
+          "thumbUrl": "/images/add-godwebsitevideo.mp4",
+          "title": "React Add-god.com Website",
+          "subTitle": "Web Design, React Framework",
+          "details": {
+            "projectTitle": "Website Design for Marketing Agency Startup",
+            "description": "A modern and responsive website built using React for Add-god.com. The project focuses on seamless user experience, fast loading speeds, and intuitive navigation. The website is designed to attract and engage users, driving traffic and conversions. The project also includes SEO optimization to enhance search engine visibility.",
+            "type": "Website",
+            "languages": "React, JavaScript, HTML, CSS",
+            "platform": "Custom React Framework",
+            "country": "India",
+            "url": "https://addgod.com"
+          }
+        },
+        {
+          "thumbUrl": "/images/addgod in video.mp4",
+          "title": "Addgod.in Ecommerce Website Design",
+          "subTitle": "Web Design, WordPress",
+          "details": {
+            "projectTitle": "Website Design for Marketing Agency Startup",
+            "description": "A professional WordPress website designed for Addgod.in. This project features an attractive UI, easy content management, and SEO-friendly architecture. The website is optimized for speed, performance, and user engagement. The project also includes social media integration for brand promotion.",
+            "type": "Website",
+            "languages": "PHP, HTML, CSS, JavaScript",
+            "platform": "WordPress",
+            "country": "India",
+            "url": "https://addgod.in"
+          }
+        },
+        {
+          "thumbUrl": "/images/allservice videos.mp4",
+          "title": "Services Website",
+          "subTitle": "Web Design, React",
+          "details": {
+            "projectTitle": "Website Design for ADD-GOD Marketing Agency",
+            "description": "A dynamic services website developed with React. The platform provides a user-friendly interface, interactive elements, and robust backend integration. The website is designed to showcase services, attract clients, and drive conversions. The project also includes SEO optimization for better visibility.",
+            "type": "Website",
+            "languages": "React, JavaScript, HTML, CSS",
+            "platform": "Custom React Framework",
+            "country": "USA",
+            "url": "https://addgod.in/services"
+          }
+        },
+        {
+          "thumbUrl": "/images/emsvideo.mp4",
+          "title": "CRM System",
+          "subTitle": "Web Design, MERN Stack",
+          "details": {
+            "projectTitle": "CRM Design for ADD-GOD Marketing Agency",
+            "description": "A powerful CRM platform developed using the MERN stack. It includes features such as lead tracking, data analytics, and customer management tools. The project focuses on user experience, data security, and scalability. The CRM is designed to streamline operations, improve efficiency, and drive business growth through data-driven insights.",
+            "type": "Web Application",
+            "languages": "MongoDB, Express.js, React, Node.js",
+            "platform": "Custom MERN Stack",
+            "country": "India",
+            "url": "https://ems-admin-seven.vercel.app/login"
+          }
+        },
+        {
+          "thumbUrl": "/images/portfoliohtmlweb1.mp4",
+          "title": "Personal Portfolio Website",
+          "subTitle": "Web Design, HTML, CSS, JS",
+          "details": {
+            "projectTitle": "Website Design for Personal Portfolio",
+            "description": "An elegant portfolio website that showcases professional projects with interactive elements and smooth animations. The website is designed to attract clients, promote services, and drive conversions. The project focuses on user experience, visual appeal, and brand identity. The website is optimized for speed, performance, and SEO.",
+            "type": "Website",
+            "languages": "HTML, CSS, JavaScript",
+            "platform": "Custom Development",
+            "country": "India",
+            "url": "https://www.example.com"
+          }
+        },
+        {
+          "thumbUrl": "/images/portfoliowebsite.png",
+          "title": "Portfolio Website",
+          "subTitle": "Web Design, HTML, CSS, JavaScript",
+          "details": {
+            "projectTitle": "Website Design for Personal Portfolio",
+            "description": "A sleek and modern portfolio website built using HTML, CSS, and JavaScript, highlighting various projects in an interactive and engaging manner. The website is designed to attract clients, showcase services, and drive conversions. The project focuses on user experience, visual appeal, and brand identity. The website is optimized for speed, performance, and SEO.",
+            "type": "Website",
+            "languages": "HTML, CSS, JavaScript",
+            "platform": "Custom Development",
+            "country": "India",
+            "url": "https://abhishek-8755.github.io/Abhiportfolio/#"
+          }
+        }, {
+         "thumbUrl": "/images/gmbaddgodproof.png",
+"title": "Google Map Listing",
+"subTitle": "SEO, Google My Business, Local SEO",
+"details": {
+  "projectTitle": "Google My Business Optimization for ADD-God",
+  "description": "This project focuses on optimizing Google My Business (GMB) listings to enhance local visibility and improve search rankings. By leveraging SEO techniques, accurate business information, and engaging content, the listing gained higher reach and credibility. The strategy included optimizing NAP (Name, Address, Phone), responding to customer reviews, and integrating Google Maps for easy navigation. The goal was to drive more traffic, generate leads, and boost business presence online.",
+  "type": "Local SEO",
+  "languages": "SEO Strategies, Google My Business Tools",
+  "platform": "Google Maps, Google My Business",
+  "country": "India",
+  "url": "https://g.co/kgs/9VNuRyj"
+          }
+        }, {
+          "thumbUrl": "/images/gmbandseoofaddgod.mp4",
+          "title": "GMB & SEO of ADDGOD Website",
+          "subTitle": "Search Engine Optimization, Digital Marketing, Web Performance",
+          "details": {
+            "projectTitle": "SEO Optimization for ADDGOD Website",
+            "description": "A comprehensive SEO strategy implemented for ADDGOD, enhancing search engine rankings, organic traffic, and online visibility. The optimization included on-page SEO (meta tags, keyword research, content optimization), technical SEO (site speed improvements, mobile-friendliness, structured data), and off-page SEO (backlink building, Google My Business optimization). The project resulted in improved search rankings, increased website traffic, and better engagement rates.",
+            "type": "SEO & Digital Marketing",
+            "languages": "SEO Tools, HTML, CSS, JavaScript",
+            "platform": "Google Search Console, SEMrush, Ahrefs",
+            "country": "India",
+            "url": "https://addgod.in"
+          }
+        }
+        
+      ]
+    },
+    "service": {
+      "sectionHeading": {
+        "miniTitle": "SERVICES",
+        "title": "Design <span>services</span> I am providing"
+      },
+      "allService": [
+        {
+          "imgUrl": "/images/websiteservice.png",
+          "title": "Website Design",
+          "subTitle": "Crafting visually stunning and highly functional websites tailored to your brand and business needs.",
+          "icon": "bi:brush-fill",
+          "ratings": 5
+        },
+        {
+          "imgUrl": "/images/SEO1.jpg",
+          "title": "SEO Services",
+          "subTitle": "Enhancing your website’s visibility with strategic SEO techniques to rank higher on search engines.",
+          "icon": "bi:code-square",
+          "ratings": 4.5
+        },
+        {
+          "imgUrl": "/images/GD.png",
+          "title": "Graphic Design",
+          "subTitle": "Creating impactful visuals, logos, and branding materials to strengthen your brand identity.",
+          "icon": "bi:speedometer2",
+          "ratings": 5
+        },
+        {
+          "imgUrl": "/images/GMB.png",
+          "title": "Google Map Listing",
+          "subTitle": "Optimizing your business presence on Google Maps to improve local search ranking and customer reach.",
+          "icon": "bi:palette",
+          "ratings": 5
+        },
+        {
+          "imgUrl": "/images/MetaAds.png",
+          "title": "Meta Ads Services",
+          "subTitle": "Running high-converting ad campaigns on Facebook & Instagram to generate leads and boost engagement.",
+          "icon": "bi:palette",
+          "ratings": 5
+        },
+        {
+          "imgUrl": "/images/googleads.png",
+          "title": "Google Ads Service",
+          "subTitle": "Maximizing your online advertising ROI with targeted Google Ads campaigns for better lead generation.",
+          "icon": "bi:palette",
+          "ratings": 5
+        },
+        {
+          "imgUrl": "/images/customqr.png",
+          "title": "Custom QR Code",
+          "subTitle": "Designing unique and branded QR codes to enhance customer engagement and business interactions.",
+          "icon": "bi:palette",
+          "ratings": 5
+        }
+      ]
+    },  
+    
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Full Stack  Developer/Chief Investigation Officer",
+        "company": "ADD-GOD Makers Pvt.Ltd. | ON-SITE",
+        "duration": "Oct 2024 - Present",
+        "jobType": "Full time",
+        "companyTitle": "About Experience",
+        "companyDescription": "Full-stack experience developing end-to-end web apps that integrate both front-end and back-end technologies to provide a consistent and powerful user experience.Front-end development: Creating visually appealing, responsive, and interactive user interfaces with modern web technologies such as HTML, CSS, and JavaScript frameworks (React.js), delivering a consistent user experience across all devices.Back-end mastery: Creating efficient server-side logic, maintaining databases like MySQL and MongoDB, and designing APIs that allow for seamless communication between server and client.API integration: Creating strong, scalable APIs that connect front-end interfaces to back-end services, streamlining data flow and increasing overall application efficiency.Performance optimization: Capable of debugging and fine-tuning programs to achieve maximum performance, scalability, and responsiveness, resulting in smooth, real-time interaction.Collaboration: Working together with UI/UX designers, product teams, and stakeholders to provide intuitive, user-centric solutions that are suited to specific company objectives and goals.Holistic problem-solving: Combining technical expertise and creativity to address complex development challenges and constantly enhance online applications using best practices for performance, security, and scalability.."
+      },
+      {
+        "designation": "Front-end Developer",
+        "company": "HeadField Solution | On-site | Full-time",
+        "duration": "Mar 2024 - Sep 2024",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "From March 2024 to September 2024, I worked as a Technical Recruiter at Headfield Company, Noida, where I was responsible for conducting technical interviews for USA-based IT candidates. My role involved screening, evaluating, and shortlisting candidates, primarily for Cognizant, ensuring they met the required technical competencies. I assessed candidates' coding skills, problem-solving abilities, and technical knowledge, aligning them with client expectations. Additionally, I collaborated with hiring managers to streamline the recruitment process, provided detailed interview feedback, and facilitated smooth communication between candidates and hiring teams."
+      },
+      {
+        "designation": "Front-end Developer",
+        "company": "Single Interface | On-Site | Internship",
+        "duration": "Mar 2022 - May 2022",
+        "jobType": "Full time",
+        "companyTitle": "About Experience",
+        "companyDescription": "My time at SingleInterface was a pivotal moment in my career. As a Front-End Developer, I was responsible for designing and implementing a variety of templates that improved the company's web presence. Over the course of three months, I studied the complexities of front-end development, honing my skills and earning significant experience.During this position, I investigated and mastered a number of critical tools and technologies. I learned SASS, which helped me manage and arrange stylesheets more efficiently. I also used Lighthouse to analyze and optimize web page performance, as well as understand the foundations of SEO to improve our projects' visibility and searchability.One of the most important lessons I learned from this experience was how to build clean, useful code that not only respects technical standards but also matches with user demands and business objectives. The encouraging workplace environment and collaborative attitude enhanced my learning experience, making this internship an important milestone in my progress."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>100+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+  {
+    "reviewText": "The service was outstanding! The team was professional, responsive, and delivered exactly what we needed. Our website traffic increased significantly after their optimizations.",
+    "avatarImg": "/images/icon.png",
+    "avatarName": "AddGod",
+    "avatarCompany": "AddGod"
+  },
+  {
+    "reviewText": "I’m beyond impressed with the results. The design is sleek, the functionality is smooth, and everything was completed ahead of schedule. Highly recommended!",
+    "avatarImg": "/images/logo.png",
+    "avatarName": "Abhi sharma",
+    "avatarCompany": "Letscodeabhi"
+  },
+  {
+    "reviewText": "Working with this team has been an amazing experience! Their creativity and attention to detail made our brand stand out. We’ve received so much positive feedback from clients.",
+    "avatarImg": "/images/pns.png",
+    "avatarName": "Pooman Saree House",
+    "avatarCompany": "Innovate Design Studio"
+  }
+]
+
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/abhi4.png",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "abhiram5002494@gmail.com" },
+      { "title": "Call Me 10Am - 7Pm", "tel": "+91 8755465950" }
+    ]
+  }
+}

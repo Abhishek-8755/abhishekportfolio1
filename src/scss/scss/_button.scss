@@ -1,0 +1,101 @@
+.px-btn {
+  padding: 13px 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 40px;
+  background-color: #8e44ad;
+  border: 2px solid #8e44ad;
+  color: var(--px-white);
+  text-decoration: none;
+  transition: all 0.35s ease-in-out;
+  font-weight: 500;
+  outline: none;
+  box-shadow: none;
+  text-transform: uppercase;
+  cursor: pointer;
+
+  i {
+    margin-left: 10px;
+  }
+
+  &:hover {
+    background-color: #6a0dad; /* Darker Purple on Hover */
+    border-color: #ffffff;
+    color: #ffffff;
+  }
+
+  &.dark {
+    background: var(--px-black);
+    border: 1px solid var(--px-black);
+    color: var(--px-white);
+
+    &:hover {
+      background: var(--px-white);
+      color: var(--px-black);
+    }
+  }
+
+  &.light {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    color: var(--px-white);
+
+    &:hover {
+      background: var(--px-white);
+      color: var(--px-black);
+    }
+  }
+
+  &.white {
+    background: var(--px-white);
+    border: 1px solid var(--px-white);
+    color: var(--px-black);
+
+    &:hover {
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: var(--px-white);
+    }
+  }
+}
+
+.social-icon {
+  display: flex;
+  gap: 8px;
+
+  a {
+    width: 46px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    color: var(--px-white);
+    border: 2px solid var(--px-white);
+    transition: top 0.35s ease-in-out, transform 0.2s ease-in-out;
+    position: relative;
+    top: 0;
+
+    &:hover {
+      top: -2px;
+      transform: scale(1.1);
+    }
+
+    &.instagram {
+      background: #e4405f;
+    }
+
+    &.linkedin {
+      background: #1275b1;
+    }
+
+    &.whatsapp {
+      background: #25d366;
+    }
+
+    &.github {
+      background: #333;
+    }
+  }
+}
