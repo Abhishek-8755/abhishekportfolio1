@@ -957,23 +957,46 @@ a {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   border-radius: 8px 0 0 8px;
   z-index: 1000;
+}
 
-  a {
-    padding: 10px;
-    color: #000;
-    text-align: center;
-    transition: background 0.3s ease, color 0.3s ease;
+.floating-sidebar a {
+  padding: 10px;
+  color: #000;
+  text-align: center;
+  transition: background 0.3s ease, color 0.3s ease;
+}
 
-    &:hover {
-      background: #007bff;
-      color: #fff;
-    }
+.floating-sidebar a:hover {
+  background: #007bff;
+  color: #fff;
+}
 
-    & + a {
-      border-top: 1px solid #ddd;
-    }
-  }
-}// Button Styles
+.floating-sidebar a + a {
+  border-top: 1px solid #ddd;
+}
+
+/* ✅ Circular "Hire Me" Button */
+.hire-me-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: #007bff;
+  color: #fff;
+  font-weight: bold;
+  padding: 15px 20px;
+  border-radius: 50%;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+
+.hire-me-button:hover {
+  background: #0056b3;
+  transform: scale(1.1);
+}
+// Button Styles
 .px-btn {
   padding: 13px 30px;
   display: inline-flex;
