@@ -11,6 +11,7 @@ import Contact from '../components/Contact';
 import HireMe from '../components/HireMe';
 import FloatingSidebar from '../components/FloatingSidebar';
 import ConsultancyPage from '../components/ConsultancyPage';
+import Skill from '../components/Skill';
 export default function Home() {
   const {
     hero,
@@ -30,6 +31,7 @@ export default function Home() {
       <Hero data={hero} socialData={socialBtns} />
       <Brands data={brands} />
       <About data={about} />
+      <Skill/>
       <Projects data={projects} />
       <Service data={service} />
       <Experience data={experience} />
